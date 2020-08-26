@@ -31,3 +31,5 @@ msbuild.wrn
 .vs
 
 ci/variables.yml
+PlatformServices/.gradle/buildOutputCleanup/cache.properties
+*.lock
